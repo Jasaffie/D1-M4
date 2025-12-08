@@ -1,4 +1,4 @@
-Hito 2: Estado de los componentes y eventos.
+- Hito 2: Estado de los componentes y eventos.
 
 # React + Vite
 
