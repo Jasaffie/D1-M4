@@ -1,3 +1,5 @@
+Hito 2: Estado de los componentes y eventos.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
