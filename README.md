@@ -1,4 +1,4 @@
-- Hito 2: Estado de los componentes y eventos.
+- Hito 3: Renderización dinámica de componentes.
 
 # React + Vite
 
